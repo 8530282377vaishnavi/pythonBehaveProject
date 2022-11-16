@@ -14,7 +14,7 @@ def launchBrowser(context):
 def OpenHomepage(context):
       context.Driver.get("https://opensource-demo.orangehrmlive.com/")
 
-
+"patil vaishnavi"
 
 @Then('verify that the logo present on home page')
 def verifylogo(context):
@@ -32,7 +32,4 @@ def closeBrowser(context):
 launchBrowser()
 verifylogo()
 closeBrowser()
-"patil"
 print("vaishnavi")
-print("ajinkya")
-"my name is vaishnavi"
