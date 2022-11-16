@@ -32,3 +32,4 @@ def closeBrowser(context):
 launchBrowser()
 verifylogo()
 closeBrowser()
+print("vaishnavi")
